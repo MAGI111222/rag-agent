@@ -32,7 +32,3 @@ flowchart TD
     K --> L[记忆写入保留8轮]
 ```
 
-
-## 启动
-pip install -r requirements.txt
-streamlit run app.py
